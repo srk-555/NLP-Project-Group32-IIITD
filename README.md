@@ -1,11 +1,12 @@
 # NLP-Project-Group32-IIITD
 Group 32 NLP Project Repo, IIIT Delhi
 Group Members:
-Amey Pawar, MT22010
-Shreeyash Khalate, MT22069
-Swaib Ilias Mazumder, MT22078
-Rahul Malik, 2021554
-
+Amey Pawar, MT22010 <br />
+Shreeyash Khalate, MT22069 <br />
+Swaib Ilias Mazumder, MT22078 <br />
+Rahul Malik, 2021554 <br />
+ <br />
+<b>Proposed Methodology:</b>
 Imports and Setup:
 Importing necessary libraries like pandas, numpy, nltk, etc.
 Installing required packages using pip install commands.
